@@ -10,3 +10,9 @@ First, a few helpful links to get you started:
 
 - [Diamond DAO Projects](https://github.com/orgs/DiamondDAO/projects)
     - As we build out our Github organization you'll find active projects to contribute to here.
+
+# Access to Community Repos
+
+Our open source projects are developed by the Diamond DAO community. To request contributor access, message `lemp.eth#8816` in our [Diamond DAO Discord](https://discord.gg/p6EpwmJb).
+
+Eventually this manual process will be more streamlined! We are early in our developer community, so if you go through the process above - **congratulations on being an early contributor to Diamond DAO**.
