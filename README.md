@@ -4,7 +4,7 @@ Welcome to the Diamond DAO Github organization. This guide is here to help you g
 
 First, a few helpful links to get you started:
 
-- [Diamond DAO Discord](https://discord.gg/p6EpwmJb)
+- [Diamond DAO Discord](https://discord.gg/ZUmC5rHH3S)
     - If you haven't introduced yourself in `#intros`, please do!
     - The `#dev` channel is a good place to talk to other engineers and developers
 
